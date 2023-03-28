@@ -1,0 +1,17 @@
+#background {
+    min-height: 100vh;
+}
+
+#navbarteste{
+    height: 10.5vh;
+}
+
+#logoteste{
+    height: 10vh;
+    width: 50vh;
+}
+
+#btn-login {
+    margin-right: 20px; /* ou qualquer outro valor que você preferir */
+  }
+  
